@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me: 
 ---
 
@@ -51,12 +53,18 @@
 
 ---
 
-# 📊 GitHub Stats:
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjstar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanjstar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <h1>📊 GitHub Stats:</h1>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjstar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjstar&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjstar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 ###
 
@@ -64,6 +72,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
