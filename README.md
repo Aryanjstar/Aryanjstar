@@ -1,15 +1,15 @@
 <div align="center">
 
-# 💫 About Me: 
+#  About Me: 
 ---
 
-# Hello World! I'm Aryan Jaiswal, a Coder & Full-Stack Developer 👋🏼  
+# Hello World! I'm Aryan Jaiswal, a Coder & Full-Stack Developer  
 
-🎓 currently pursuing my **B.Tech in Computer Science and Engineering** (2022–2026) at **IIIT Dharwad**  
-🛠️ passionate about **Full-Stack Development**, **AI/ML**, and solving real-world problems  
-🌱 actively exploring **Blockchain**, **Generative AI**, and **Cloud Computing**  
-🌟 serving as a **β-Microsoft Learn Student Ambassador** and co-founder of the **Prabodhini Club**  
-🎵 when I’m not coding, you’ll find me **singing**, **listening songs**, or **mentoring others**  
+currently pursuing my **B.Tech in Computer Science and Engineering** (2022–2026) at **IIIT Dharwad**  
+passionate about **Full-Stack Development**, **AI/ML**, and solving real-world problems  
+actively exploring **Blockchain**, **Generative AI**, and **Cloud Computing**  
+serving as a **β-Microsoft Learn Student Ambassador** and co-founder of the **Prabodhini Club**  
+when I’m not coding, you’ll find me **singing**, **listening songs**, or **mentoring others**  
 
 
 ---  
@@ -41,10 +41,10 @@
     </a>
   </h1>
 
-🎨 Explore my **projects, career highlights, and achievements**.  
-🚀 This site is **live on Netlify**!  
-👉 Check out my portfolio by **clicking** on the **Netlify logo!**  
-✉️ For any queries or to contact me, check out my portfolio.
+Explore my **projects, career highlights, and achievements**.  
+This site is **live on Netlify**!  
+Check out my portfolio by **clicking** on the **Netlify logo!**  
+For any queries or to contact me, check out my portfolio.
 
 
 </div>
@@ -56,7 +56,7 @@
 
 
 <div align="center">
-  <h1>📊 GitHub Stats:</h1>
+  <h1>GitHub Stats:</h1>
   
   <img src="https://github-readme-stats.vercel.app/api?username=aryanjstar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
@@ -69,7 +69,7 @@
 ###
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
