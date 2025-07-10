@@ -55,21 +55,10 @@ For any queries or to contact me, check out my portfolio.
 
 
 
-<div align="center">
-  <h1>GitHub Stats:</h1>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjstar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjstar&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjstar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-
 ###
 
 
-### Random Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
