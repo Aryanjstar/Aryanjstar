@@ -79,7 +79,17 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2
 
 ## Featured Projects
 
-### PUR - AI Resume Analysis Tool
+### AI Career Navigator – Intelligent Career Guidance Platform
+
+**Tech Stack:** Azure OpenAI, GPT-4.1, Python, TypeScript, React.js, Node.js, MongoDB  
+An intelligent career guidance tool that analyzes resumes, identifies skill gaps, generates interview questions, and offers personalized career roadmaps using AI.
+
+### Modern & Minimalist Portfolio Website
+
+**Tech Stack:** React.js, Next.js, Three.js, Tailwind CSS, Netlify  
+Responsive developer portfolio showcasing projects, skills, and growth. Features bento grids, smooth animations, Netlify deployment, and functional integrations like SendGrid.
+
+### PUR – AI Resume Analysis Tool
 
 **Tech Stack:** Python, TensorFlow, Streamlit, NLP  
 AI-powered tool for analyzing and optimizing resumes with machine learning algorithms.
@@ -89,7 +99,7 @@ AI-powered tool for analyzing and optimizing resumes with machine learning algor
 **Tech Stack:** Python, CNN, OpenCV, Flask  
 Deep learning solution for early detection of plant diseases using computer vision.
 
-### Ayurveda ML Research
+### Prakriti Prediction - ML Research
 
 **Tech Stack:** Python, scikit-learn, Pandas  
 Research project combining traditional Indian medicine with modern machine learning techniques.
@@ -98,6 +108,7 @@ Research project combining traditional Indian medicine with modern machine learn
 
 **Tech Stack:** Python, Optimization Algorithms, Real-time Systems  
 Bid-driven optimization system for efficient electric vehicle charging scheduling.
+
 
 ## Contribution Activity
 
