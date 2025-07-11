@@ -17,7 +17,7 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2
 - How to reach me: Feel free to connect or message me on **[Linkedin](https://www.linkedin.com/in/aryanjstar/)**
 - Fun fact: I love **singing** and **mentoring** fellow developers
 
-## Tech Stack
+## 🧠 Tech Stack
 
 ### Languages
 
@@ -68,7 +68,7 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## Achievements & Certifications
+## 🏅 Achievements & Certifications
 
 - **β-Microsoft Learn Student Ambassador** - Leading tech community initiatives
 - **Guinness World Record Participant** - Microsoft AI Skills Fest
@@ -77,7 +77,7 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2
 - **Study Jam Troop Leader** - JS_AI_Build-a-thon program
 - **Hackathon Finalist** - Multiple competitive programming achievements
 
-## Featured Projects
+## 🌟 Featured Projects
 
 ### AI Career Navigator – Intelligent Career Guidance Platform
 
@@ -110,7 +110,7 @@ Research project combining traditional Indian medicine with modern machine learn
 Bid-driven optimization system for efficient electric vehicle charging scheduling.
 
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanjstar/aryanjstar/output/github-snake-dark.svg" />
@@ -118,7 +118,7 @@ Bid-driven optimization system for efficient electric vehicle charging schedulin
   <img alt="github-snake" src="https://raw.githubusercontent.com/aryanjstar/aryanjstar/output/github-snake.svg" />
 </picture>
 
-## Connect With Me
+## 🫱🏻‍🫲🏻 Connect With Me
 
 <div align="center">
   
@@ -130,7 +130,7 @@ Bid-driven optimization system for efficient electric vehicle charging schedulin
   
 </div>
 
-## Quote of the Day
+## 💬 Quote of the Day
 
 <div align="center">
   
