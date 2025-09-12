@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2022–2026), specializing in **Full-Stack Development** and **AI/ML**. As a **β-Microsoft Learn Student Ambassador** and the **Founder & President of MLSA IIIT Dharwad**, I'm dedicated to building innovative solutions and empowering tech communities.
+I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2022–2026), specializing in **Full-Stack Development** and **AI/ML**. As a **Gold-Microsoft Student Ambassador** and the **Founder & President of MLSA IIIT Dharwad**, I'm dedicated to building innovative solutions and empowering tech communities.
 
 - Currently working on **AI-powered applications** and **blockchain solutions**
 - Exploring **Generative AI**, **Cloud Computing**, and **Advanced ML techniques**
