@@ -16,6 +16,7 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2
 - Ask me about **Full-Stack Development**, **AI/ML**, or **Community Building**
 - How to reach me: Feel free to connect or message me on **[Linkedin](https://www.linkedin.com/in/aryanjstar/)**
 - Fun fact: I love **singing** and **mentoring** fellow developers
+- Explore my **[Portfolio](https://aryanjaiswal.in/)**
 
 ## 🧠 Tech Stack
 
