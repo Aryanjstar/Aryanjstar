@@ -1,150 +1,70 @@
-# Hi there, I'm Aryan Jaiswal
+# Aryan Jaiswal
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Problem+Solver;Full-Stack+Developer;AI%2FML+Enthusiast;Microsoft+Student+Ambassador;Open+Source+Contributor)](https://git.io/typing-svg)
-  
-</div>
+**Forward Deployed Engineer at Exotel · Voice AI, agentic systems & backend engineering**
 
-## 🚀 About Me
+I build AI systems from the first customer conversation through integration, evaluation and production. Based in Bangalore; B.Tech in Computer Science from IIIT Dharwad, class of 2026.
 
-I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2022–2026), specializing in **Full-Stack Development** and **AI/ML**. As a **Gold-Microsoft Student Ambassador** and the **Founder & Former President of MSA IIIT Dharwad**, I'm dedicated to building innovative solutions and empowering tech communities.
+[Projects](#selected-projects) · [Portfolio](https://aryanjaiswal.in) · [LinkedIn](https://www.linkedin.com/in/aryanjstar/) · [Resume](assets/Aryan_Jaiswal_Resume.pdf) · [Email](mailto:aryanjstar3@gmail.com)
 
-- Currently working on **AI-powered applications** and **blockchain solutions**
-- Exploring **Generative AI**, **Cloud Computing**, and **Advanced ML techniques**
-- Looking to collaborate on **open source projects** and **innovative startups**
-- Ask me about **Full-Stack Development**, **AI/ML**, or **Community Building**
-- How to reach me: Feel free to connect or message me on **[Linkedin](https://www.linkedin.com/in/aryanjstar/)**
-- Fun fact: I love **singing** and **mentoring** fellow developers
-- Explore my **[Portfolio](https://aryanjaiswal.in/)**
+## What I build at Exotel
 
-## 🧠 Tech Stack
+**Forward Deployed Engineer · Jun 2026–present**<br>
+Previously **Tech Intern, GenAI · Oct 2025–Jun 2026**
 
-### Languages
+- **Production voice AI:** shipped 7 voice agents across 5 languages, with work spanning customer requirements, prompts, tools, knowledge bases, integrations and go-live.
+- **Argus:** built a voicebot debugging and evaluation platform with a Google Chat interface, Gemini tool calling and latency analysis; reduced call triage from roughly 30 minutes to under a minute.
+- **AutoLoop, within Argus:** built a seven-stage workflow in an agentic harness with linked bot repositories and 16 agent skills. It generates scenarios, compares prompt techniques, selects winners and rolls back regressions. Argus/AutoLoop work with AI coding tools including Cursor and Claude Code; I also built its in-house voice simulator for **chat simulations → voice simulations → real-call validation**.
+- **Campaign automation:** processed 100K lead entries across 10 Kinetic Green campaigns with Python, Jenkins and AWS, including post-call lead reports and deterministic campaign PDFs.
+- **Backend integrations:** migrated Bawa's booking agent across 6 hotels, with HMAC-signed Camel routes, 313/313 route checks and 114/114 booking checks on staging before production cutover.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<details>
+<summary>Earlier engineering experience</summary>
 
-### Frontend Development
+- **Exotel internship:** LangGraph runtime guards under DRI responsibility for 150K+ calls/month; NGINX WebSocket workers; Prometheus/Grafana monitoring; Ansible provisioning; and a FastAPI/Redis/React test framework.
+- **Joveo — AI/ML Intern, Oct 2025:** email-processing and enterprise-search automation with n8n, embeddings and PostgreSQL/pgvector.
+- **InfoKalash — UI/UX Developer Intern, Jan 2025:** user research, Figma workflows, reusable components and developer handoffs.
+- **Infosys Springboard — AI/ML Intern, Mar–Jun 2024:** CNN plant-disease classification and Flask model serving.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+</details>
 
-### Backend Development
+## Selected projects
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**[AURA — Agentic Finance AI](https://github.com/Aryanjstar/AURA---THE-FINANCE-AI)**<br>
+Five-agent finance advisor with adaptive orchestration, six tools over MCP and streamed responses. **Google Cloud Agentic AI Day finalist**, top 3.5% of 57,000+ participants.<br>
+`Node.js` `Azure OpenAI` `MCP` `Socket.IO` · [Demo](https://www.youtube.com/watch?v=3q4uTliRNr8)
 
-### Cloud & DevOps
+**[The Wedding Home — Event Planning Platform](https://github.com/Aryanjstar/the-wedding-home)**<br>
+Indian wedding planning with family workspaces, per-function guest lists, no-login RSVPs and a QR media gallery. API validation, Vitest and a Playwright journey are part of its delivery workflow.<br>
+`Next.js` `TypeScript` `MongoDB` `Vercel` · [Live](https://the-wedding-home.vercel.app)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**[Myriox — Accessibility Floor-Plan Simulator](https://github.com/Aryanjstar/Myriox_v2)**<br>
+LLM persona agents explore floor plans under deterministic mobility constraints; findings reference ADA clauses through vector search. Three FastAPI services and an MCP interface for saved plans.<br>
+`FastAPI` `Next.js` `Azure OpenAI` `Cosmos DB` · [Demo](https://www.youtube.com/watch?v=IfA1XU-qBrU)
 
-### AI/ML & Data Science
+**[AI Career Navigator](https://github.com/Aryanjstar/AI-Career-Navigator)**<br>
+Resume feedback, skill-gap analysis and interview preparation using Azure OpenAI and retrieval. **Overall Winner & People's Choice, Microsoft JS AI Build-a-thon.**<br>
+`Python` `TypeScript` `Azure OpenAI` `Azure AI Search` · [Microsoft feature](https://techcommunity.microsoft.com/blog/educatordeveloperblog/ai-career-navigator-%E2%80%94-empowering-job-seekers-with-azure-openai/4459774)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Also exploring:** [LEELA](https://github.com/Aryanjstar/LEELA), a studio that turns ideas, notes and code into narrated short films with timed speech, HyperFrames and FFmpeg. More work: [Cognitive-OS](https://github.com/Aryanjstar/Cognitive-OS) · [DevTinder](https://github.com/Aryanjstar/DevTinder).
 
-### Databases
+## Research & community
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- **COMSNETS 2026:** co-authored *A Bid-Driven Optimization Framework for Real-Time Electric Vehicle Charging Scheduling*. [Paper](https://doi.org/10.1109/COMSNETS67989.2026.11418229)
+- **[Gold Microsoft Student Ambassador](https://techcommunity.microsoft.com/blog/studentdeveloperblog/meet-aryan-jaiswal/4538102):** founded the [IIIT Dharwad chapter](https://msa-iiitdwd.vercel.app), a community of 500+ members; mentored 80+ developers as a Build-a-thon Troop Lead.
+- **Problem solving:** [GeeksforGeeks institute rank 2 at IIIT Dharwad](https://www.geeksforgeeks.org/profile/aryanjstar) and [800+ LeetCode problems](https://leetcode.com/u/aryanjstar/).
+- **Credentials:** [Azure AI Apps & Agents Developer Associate](https://learn.microsoft.com/en-us/users/aryanjstar/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab) · [GitHub Agentic AI Developer](https://learn.microsoft.com/api/credentials/share/en-us/Aryanjstar/D269D8B15535F5D1?sharingId=3E11B14851102961).
 
-## 🏅 Achievements & Certifications
+## Tools I work with
 
-- **Gold-Microsoft Student Ambassador** - Leading and organizing tech community initiatives
-- **Guinness World Record Participant** - Microsoft AI Skills Fest
-- **Google Cloud Arcade Champion** - Completed advanced cloud challenges
-- **GitHub Foundations Certified** - Demonstrating Git and GitHub expertise
-- **Study Jam Troop Leader** - JS_AI_Build-a-thon program
-- **Hackathon Finalist** - Multiple competitive programming achievements
+**Languages & apps:** Python, TypeScript, JavaScript, SQL, Java, C++, React, Next.js, FastAPI, Node.js<br>
+**AI & data:** LangGraph, RAG, MCP, evals, Pipecat, PostgreSQL, MongoDB, Redis, OpenSearch<br>
+**Cloud & delivery:** Azure, AWS, Docker, NGINX, Apache Camel, Jenkins, GitHub Actions, Prometheus, Grafana
 
-## 🌟 Featured Projects
-
-### AI Career Navigator – Intelligent Career Guidance Platform
-
-**Tech Stack:** Azure OpenAI, GPT-4.1, Python, TypeScript, React.js, Node.js, MongoDB  
-An intelligent career guidance tool that analyzes resumes, identifies skill gaps, generates interview questions, and offers personalized career roadmaps using AI.
-
-### Modern & Minimalist Portfolio Website
-
-**Tech Stack:** React.js, Next.js, Three.js, Tailwind CSS, Netlify  
-Responsive developer portfolio showcasing projects, skills, and growth. Features bento grids, smooth animations, Netlify deployment, and functional integrations like SendGrid.
-
-### PUR – AI Resume Analysis Tool
-
-**Tech Stack:** Python, TensorFlow, Streamlit, NLP  
-AI-powered tool for analyzing and optimizing resumes with machine learning algorithms.
-
-### Plant Disease Classification System
-
-**Tech Stack:** Python, CNN, OpenCV, Flask  
-Deep learning solution for early detection of plant diseases using computer vision.
-
-### Prakriti Prediction - ML Research
-
-**Tech Stack:** Python, scikit-learn, Pandas  
-Research project combining traditional Indian medicine with modern machine learning techniques.
-
-### EV Charging Optimization Framework
-
-**Tech Stack:** Python, Optimization Algorithms, Real-time Systems  
-Bid-driven optimization system for efficient electric vehicle charging scheduling.
-
-
-## 📈 Contribution Activity
+## On GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanjstar/aryanjstar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanjstar/aryanjstar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aryanjstar/aryanjstar/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img src="assets/contributions-light.svg" alt="Aryan's GitHub contribution calendar over the past year, generated daily from GitHub data." width="100%">
 </picture>
 
-## 🫱🏻‍🫲🏻 Connect With Me
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aryanjaiswal.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanjstar)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aryanjstar)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryanjstar)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanjstar3@gmail.com)
-  
-</div>
-
-## 💬 Quote of the Day
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **⭐ Star my repositories if you find them helpful!**
-  
-</div>
-  
-</div>
+Outside code, I enjoy singing and mentoring developers. For conversations about AI engineering, backend systems or building something together, [say hello](mailto:aryanjstar3@gmail.com).

@@ -1,0 +1,41 @@
+name: Refresh contribution calendar
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update-contributions.mjs
+      - .github/workflows/contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Fetch aggregate data and generate both themes
+        run: node scripts/update-contributions.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Save updated calendar
+        run: |
+          git add assets/contributions.json assets/contributions-light.svg assets/contributions-dark.svg
+          if git diff --cached --quiet; then
+            echo 'Calendar is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh contribution calendar [skip ci]'
+          git push
