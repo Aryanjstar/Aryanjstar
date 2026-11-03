@@ -1,4 +1,4 @@
-name: Refresh contribution calendar
+name: Refresh profile animations
 
 on:
   schedule:
@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - scripts/update-contributions.mjs
+      - scripts/profile-visuals.mjs
       - .github/workflows/contributions.yml
 
 permissions:
@@ -28,14 +29,23 @@ jobs:
         run: node scripts/update-contributions.mjs
         env:
           GH_TOKEN: ${{ github.token }}
+      - name: Generate the contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: Aryanjstar
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Save updated calendar
         run: |
-          git add assets/contributions.json assets/contributions-light.svg assets/contributions-dark.svg
+          git add assets/*.svg assets/contributions.json
           if git diff --cached --quiet; then
             echo 'Calendar is already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Refresh contribution calendar [skip ci]'
+          git commit -m 'Refresh profile animations [skip ci]'
           git push

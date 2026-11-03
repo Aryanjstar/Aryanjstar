@@ -1,3 +1,4 @@
+import { hero, skyline } from './profile-visuals.mjs';
 import { spawnSync } from 'node:child_process';
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -55,12 +56,12 @@ function render(theme) {
     return `<text x="${34 + i * 14}" y="91" class="small">${label}</text>`;
   }).join('');
   const cells = calendar.weeks.map((week, x) => week.contributionDays.map(d =>
-    `<rect x="${34 + x * 14}" y="${104 + d.weekday * 14}" width="11" height="11" rx="2" fill="${p.colors[levels.indexOf(d.contributionLevel)]}"><title>${d.date}: ${d.contributionCount} contributions</title></rect>`
+    `<rect class="day" style="transform-origin:${39.5 + x*14}px ${109.5 + d.weekday*14}px;animation-delay:${((x+d.weekday*1.6)*.022).toFixed(3)}s" x="${34 + x * 14}" y="${104 + d.weekday * 14}" width="11" height="11" rx="2" fill="${p.colors[levels.indexOf(d.contributionLevel)]}"><title>${d.date}: ${d.contributionCount} contributions</title></rect>`
   ).join('')).join('');
   return `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="244" viewBox="0 0 800 244" role="img" aria-labelledby="title desc">
 <title id="title">Aryan Jaiswal — GitHub contribution calendar</title>
 <desc id="desc">${calendar.totalContributions} GitHub-reported contributions. ${activeDays} active days in the displayed calendar, ${dates}. Contribution counts are activity, not a measure of code quality.</desc>
-<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:${p.fg}}.small{font-size:11px;fill:${p.muted}}.caption{font-size:12px;fill:${p.muted}}</style>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:${p.fg}}.small{font-size:11px;fill:${p.muted}}.caption{font-size:12px;fill:${p.muted}}.day{animation:drop .6s cubic-bezier(.2,.8,.2,1.2) both}@keyframes drop{from{opacity:0;transform:translateY(-6px) scale(.2)}to{opacity:1;transform:translateY(0) scale(1)}}@media(prefers-reduced-motion:reduce){.day{animation:none}}</style>
 <rect x="0.5" y="0.5" width="799" height="243" rx="12" fill="${p.bg}" stroke="${p.border}"/>
 <text x="28" y="34" font-size="13" font-weight="600">A YEAR OF BUILDING</text>
 <text x="28" y="62" font-size="22" font-weight="650">${calendar.totalContributions.toLocaleString('en-US')} contributions</text>
@@ -75,6 +76,10 @@ ${p.colors.map((c, i) => `<rect x="${674 + i * 14}" y="213" width="11" height="1
 }
 const outputs = Object.fromEntries(Object.keys(palettes).map(theme => [theme, render(theme)]));
 mkdirSync(path.join(root, 'assets'), { recursive: true });
-for (const [theme, svg] of Object.entries(outputs)) writeFileSync(path.join(root, 'assets', `contributions-${theme}.svg`), svg);
+for (const [theme, svg] of Object.entries(outputs)) {
+  writeFileSync(path.join(root, 'assets', `contributions-${theme}.svg`), svg);
+  writeFileSync(path.join(root, 'assets', `skyline-${theme}.svg`), skyline(calendar, theme, palettes[theme]));
+  writeFileSync(path.join(root, 'assets', `hero-${theme}.svg`), hero(theme));
+}
 writeFileSync(path.join(root, 'assets', 'contributions.json'), JSON.stringify({ source: 'GitHub GraphQL contributionCalendar', ...calendar }, null, 2) + '\n');
 console.log(`Rendered ${days.length} calendar days; ${calendar.totalContributions} GitHub-reported contributions; ${activeDays} active days.`);

@@ -1,0 +1,746 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="336" viewBox="0 0 800 336" role="img" aria-labelledby="title desc">
+<title id="title">Aryan's contribution skyline</title><desc id="desc">One building per calendar day. Height uses the square root of that day's contributions. 322 GitHub-reported contributions; peak 21 on 2025-12-13.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:#1f2328}.caption{font-size:11px;fill:#59636e}.building{animation:rise .85s cubic-bezier(.2,.7,.3,1) both}@keyframes rise{from{transform:scaleY(.03);opacity:.25}to{transform:scaleY(1);opacity:1}}@media(prefers-reduced-motion:reduce){.building{animation:none}}</style>
+<rect x=".5" y=".5" width="799" height="335" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="28" y="32" font-size="12" font-weight="650" letter-spacing="2">MY YEAR, BUILT IN CODE</text>
+<text x="28" y="62" font-size="23" font-weight="700">322 contributions</text>
+<text x="772" y="32" text-anchor="end" class="caption">2025-11-02 → 2026-11-03</text>
+<text x="772" y="58" text-anchor="end" class="caption">One building for each day</text>
+<g class="building" style="transform-origin:720.4px 157.2px;animation-delay:1.196s"><title>2026-11-01: 0 contributions</title>
+<path d="M720.4,157.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:707.1999999999999px 157.85px;animation-delay:1.173s"><title>2026-10-25: 13 contributions</title>
+<path d="M707.1999999999999,90.69313239491399l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M707.1999999999999,90.69313239491399l5,5v67.156867605086l-5,-5z" fill="#2da44e"/><path d="M712.1999999999999,95.69313239491399l10,-4v67.156867605086l-10,4z" fill="#2da44e"/><path d="M712.1999999999999,95.69313239491399l10,-4v67.156867605086l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:694px 158.5px;animation-delay:1.150s"><title>2026-10-18: 15 contributions</title>
+<path d="M694,86.7328138764472l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M694,86.7328138764472l5,5v71.7671861235528l-5,-5z" fill="#2da44e"/><path d="M699,91.7328138764472l10,-4v71.7671861235528l-10,4z" fill="#2da44e"/><path d="M699,91.7328138764472l10,-4v71.7671861235528l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:680.8px 159.15px;animation-delay:1.127s"><title>2026-10-11: 1 contributions</title>
+<path d="M680.8,136.91078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M680.8,136.91078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M685.8,141.91078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M685.8,141.91078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:667.5999999999999px 159.8px;animation-delay:1.104s"><title>2026-10-04: 1 contributions</title>
+<path d="M667.5999999999999,137.56078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M667.5999999999999,137.56078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M672.5999999999999,142.56078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M672.5999999999999,142.56078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:654.4px 160.45px;animation-delay:1.081s"><title>2026-09-27: 20 contributions</title>
+<path d="M654.4,78.35389423706586l10,-4 5,5 -10,4z" fill="#116329" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M654.4,78.35389423706586l5,5v82.09610576293413l-5,-5z" fill="#116329"/><path d="M659.4,83.35389423706586l10,-4v82.09610576293413l-10,4z" fill="#116329"/><path d="M659.4,83.35389423706586l10,-4v82.09610576293413l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:641.1999999999999px 161.1px;animation-delay:1.058s"><title>2026-09-20: 0 contributions</title>
+<path d="M641.1999999999999,161.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:628px 161.75px;animation-delay:1.035s"><title>2026-09-13: 0 contributions</title>
+<path d="M628,161.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:614.8px 162.4px;animation-delay:1.012s"><title>2026-09-06: 0 contributions</title>
+<path d="M614.8,162.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:601.6px 163.05px;animation-delay:0.989s"><title>2026-08-30: 0 contributions</title>
+<path d="M601.6,163.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:588.4px 163.7px;animation-delay:0.966s"><title>2026-08-23: 0 contributions</title>
+<path d="M588.4,163.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:575.1999999999999px 164.35px;animation-delay:0.943s"><title>2026-08-16: 0 contributions</title>
+<path d="M575.1999999999999,164.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:562px 165px;animation-delay:0.920s"><title>2026-08-09: 0 contributions</title>
+<path d="M562,165l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:548.8px 165.65px;animation-delay:0.897s"><title>2026-08-02: 0 contributions</title>
+<path d="M548.8,165.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:535.5999999999999px 166.3px;animation-delay:0.874s"><title>2026-07-26: 3 contributions</title>
+<path d="M535.5999999999999,131.44080663227106l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M535.5999999999999,131.44080663227106l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M540.5999999999999,136.44080663227106l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M540.5999999999999,136.44080663227106l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:522.4px 166.95px;animation-delay:0.851s"><title>2026-07-19: 14 contributions</title>
+<path d="M522.4,97.44677010670964l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M522.4,97.44677010670964l5,5v69.50322989329035l-5,-5z" fill="#2da44e"/><path d="M527.4,102.44677010670964l10,-4v69.50322989329035l-10,4z" fill="#2da44e"/><path d="M527.4,102.44677010670964l10,-4v69.50322989329035l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:725.5px 167.2px;animation-delay:1.241s"><title>2026-11-02: 5 contributions</title>
+<path d="M725.5,123.65194711853292l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M725.5,123.65194711853292l5,5v43.548052881467065l-5,-5z" fill="#aceebb"/><path d="M730.5,128.65194711853292l10,-4v43.548052881467065l-10,4z" fill="#aceebb"/><path d="M730.5,128.65194711853292l10,-4v43.548052881467065l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:509.2px 167.6px;animation-delay:0.828s"><title>2026-07-12: 1 contributions</title>
+<path d="M509.2,145.3607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M509.2,145.3607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M514.2,150.3607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M514.2,150.3607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:712.3px 167.85px;animation-delay:1.218s"><title>2026-10-26: 0 contributions</title>
+<path d="M712.3,167.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:496px 168.25px;animation-delay:0.805s"><title>2026-07-05: 0 contributions</title>
+<path d="M496,168.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:699.1px 168.5px;animation-delay:1.195s"><title>2026-10-19: 1 contributions</title>
+<path d="M699.1,146.2607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M699.1,146.2607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M704.1,151.2607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M704.1,151.2607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:482.79999999999995px 168.9px;animation-delay:0.782s"><title>2026-06-28: 0 contributions</title>
+<path d="M482.79999999999995,168.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:685.9px 169.15px;animation-delay:1.172s"><title>2026-10-12: 0 contributions</title>
+<path d="M685.9,169.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:469.59999999999997px 169.55px;animation-delay:0.759s"><title>2026-06-21: 0 contributions</title>
+<path d="M469.59999999999997,169.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:672.6999999999999px 169.8px;animation-delay:1.149s"><title>2026-10-05: 0 contributions</title>
+<path d="M672.6999999999999,169.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:456.4px 170.2px;animation-delay:0.736s"><title>2026-06-14: 0 contributions</title>
+<path d="M456.4,170.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:659.5px 170.45px;animation-delay:1.126s"><title>2026-09-28: 0 contributions</title>
+<path d="M659.5,170.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:443.2px 170.85px;animation-delay:0.713s"><title>2026-06-07: 0 contributions</title>
+<path d="M443.2,170.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:646.3px 171.1px;animation-delay:1.103s"><title>2026-09-21: 0 contributions</title>
+<path d="M646.3,171.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:430px 171.5px;animation-delay:0.690s"><title>2026-05-31: 0 contributions</title>
+<path d="M430,171.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:633.1px 171.75px;animation-delay:1.080s"><title>2026-09-14: 0 contributions</title>
+<path d="M633.1,171.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:416.79999999999995px 172.15px;animation-delay:0.667s"><title>2026-05-24: 0 contributions</title>
+<path d="M416.79999999999995,172.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:619.9px 172.4px;animation-delay:1.057s"><title>2026-09-07: 0 contributions</title>
+<path d="M619.9,172.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:403.59999999999997px 172.8px;animation-delay:0.644s"><title>2026-05-17: 0 contributions</title>
+<path d="M403.59999999999997,172.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:606.7px 173.05px;animation-delay:1.034s"><title>2026-08-31: 0 contributions</title>
+<path d="M606.7,173.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:390.4px 173.45px;animation-delay:0.621s"><title>2026-05-10: 0 contributions</title>
+<path d="M390.4,173.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:593.5px 173.7px;animation-delay:1.011s"><title>2026-08-24: 0 contributions</title>
+<path d="M593.5,173.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:377.2px 174.1px;animation-delay:0.598s"><title>2026-05-03: 0 contributions</title>
+<path d="M377.2,174.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:580.3px 174.35px;animation-delay:0.988s"><title>2026-08-17: 0 contributions</title>
+<path d="M580.3,174.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:364px 174.75px;animation-delay:0.575s"><title>2026-04-26: 0 contributions</title>
+<path d="M364,174.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:567.1px 175px;animation-delay:0.965s"><title>2026-08-10: 0 contributions</title>
+<path d="M567.1,175l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:350.79999999999995px 175.4px;animation-delay:0.552s"><title>2026-04-19: 0 contributions</title>
+<path d="M350.79999999999995,175.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:553.9px 175.65px;animation-delay:0.942s"><title>2026-08-03: 0 contributions</title>
+<path d="M553.9,175.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:337.59999999999997px 176.05px;animation-delay:0.529s"><title>2026-04-12: 2 contributions</title>
+<path d="M337.59999999999997,146.67007070598947l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M337.59999999999997,146.67007070598947l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M342.59999999999997,151.67007070598947l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M342.59999999999997,151.67007070598947l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:540.6999999999999px 176.3px;animation-delay:0.919s"><title>2026-07-27: 0 contributions</title>
+<path d="M540.6999999999999,176.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:324.4px 176.7px;animation-delay:0.506s"><title>2026-04-05: 0 contributions</title>
+<path d="M324.4,176.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:527.5px 176.95px;animation-delay:0.896s"><title>2026-07-20: 0 contributions</title>
+<path d="M527.5,176.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:730.6px 177.2px;animation-delay:1.286s"><title>2026-11-03: 3 contributions</title>
+<path d="M730.6,142.34080663227104l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M730.6,142.34080663227104l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M735.6,147.34080663227104l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M735.6,147.34080663227104l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:311.2px 177.35px;animation-delay:0.483s"><title>2026-03-29: 6 contributions</title>
+<path d="M311.2,130.12272377783694l10,-4 5,5 -10,4z" fill="#4ac26b" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M311.2,130.12272377783694l5,5v47.227276222163056l-5,-5z" fill="#4ac26b"/><path d="M316.2,135.12272377783694l10,-4v47.227276222163056l-10,4z" fill="#4ac26b"/><path d="M316.2,135.12272377783694l10,-4v47.227276222163056l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:514.3px 177.6px;animation-delay:0.873s"><title>2026-07-13: 0 contributions</title>
+<path d="M514.3,177.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:717.4px 177.85px;animation-delay:1.263s"><title>2026-10-27: 0 contributions</title>
+<path d="M717.4,177.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:298px 178px;animation-delay:0.460s"><title>2026-03-22: 0 contributions</title>
+<path d="M298,178l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:501.1px 178.25px;animation-delay:0.850s"><title>2026-07-06: 0 contributions</title>
+<path d="M501.1,178.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:704.2px 178.5px;animation-delay:1.240s"><title>2026-10-20: 5 contributions</title>
+<path d="M704.2,134.95194711853293l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M704.2,134.95194711853293l5,5v43.548052881467065l-5,-5z" fill="#aceebb"/><path d="M709.2,139.95194711853293l10,-4v43.548052881467065l-10,4z" fill="#aceebb"/><path d="M709.2,139.95194711853293l10,-4v43.548052881467065l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:284.79999999999995px 178.65px;animation-delay:0.437s"><title>2026-03-15: 0 contributions</title>
+<path d="M284.79999999999995,178.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:487.9px 178.9px;animation-delay:0.827s"><title>2026-06-29: 0 contributions</title>
+<path d="M487.9,178.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:691px 179.15px;animation-delay:1.217s"><title>2026-10-13: 0 contributions</title>
+<path d="M691,179.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:271.6px 179.3px;animation-delay:0.414s"><title>2026-03-08: 0 contributions</title>
+<path d="M271.6,179.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:474.7px 179.55px;animation-delay:0.804s"><title>2026-06-22: 0 contributions</title>
+<path d="M474.7,179.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:677.8px 179.8px;animation-delay:1.194s"><title>2026-10-06: 4 contributions</title>
+<path d="M677.8,140.3215733427132l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M677.8,140.3215733427132l5,5v39.478426657286796l-5,-5z" fill="#aceebb"/><path d="M682.8,145.3215733427132l10,-4v39.478426657286796l-10,4z" fill="#aceebb"/><path d="M682.8,145.3215733427132l10,-4v39.478426657286796l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:258.4px 179.95px;animation-delay:0.391s"><title>2026-03-01: 0 contributions</title>
+<path d="M258.4,179.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:461.5px 180.2px;animation-delay:0.781s"><title>2026-06-15: 0 contributions</title>
+<path d="M461.5,180.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:664.6px 180.45px;animation-delay:1.171s"><title>2026-09-29: 0 contributions</title>
+<path d="M664.6,180.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:245.2px 180.6px;animation-delay:0.368s"><title>2026-02-22: 4 contributions</title>
+<path d="M245.2,141.1215733427132l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M245.2,141.1215733427132l5,5v39.478426657286796l-5,-5z" fill="#aceebb"/><path d="M250.2,146.1215733427132l10,-4v39.478426657286796l-10,4z" fill="#aceebb"/><path d="M250.2,146.1215733427132l10,-4v39.478426657286796l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:448.3px 180.85px;animation-delay:0.758s"><title>2026-06-08: 0 contributions</title>
+<path d="M448.3,180.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:651.4px 181.1px;animation-delay:1.148s"><title>2026-09-22: 0 contributions</title>
+<path d="M651.4,181.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:232px 181.25px;animation-delay:0.345s"><title>2026-02-15: 0 contributions</title>
+<path d="M232,181.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:435.1px 181.5px;animation-delay:0.735s"><title>2026-06-01: 0 contributions</title>
+<path d="M435.1,181.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:638.2px 181.75px;animation-delay:1.125s"><title>2026-09-15: 0 contributions</title>
+<path d="M638.2,181.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:218.79999999999998px 181.9px;animation-delay:0.322s"><title>2026-02-08: 0 contributions</title>
+<path d="M218.79999999999998,181.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:421.9px 182.15px;animation-delay:0.712s"><title>2026-05-25: 0 contributions</title>
+<path d="M421.9,182.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:625px 182.4px;animation-delay:1.102s"><title>2026-09-08: 0 contributions</title>
+<path d="M625,182.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:205.6px 182.55px;animation-delay:0.299s"><title>2026-02-01: 2 contributions</title>
+<path d="M205.6,153.17007070598947l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M205.6,153.17007070598947l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M210.6,158.17007070598947l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M210.6,158.17007070598947l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:408.7px 182.8px;animation-delay:0.689s"><title>2026-05-18: 0 contributions</title>
+<path d="M408.7,182.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:611.8000000000001px 183.05px;animation-delay:1.079s"><title>2026-09-01: 0 contributions</title>
+<path d="M611.8000000000001,183.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:192.39999999999998px 183.2px;animation-delay:0.276s"><title>2026-01-25: 0 contributions</title>
+<path d="M192.39999999999998,183.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:395.5px 183.45px;animation-delay:0.666s"><title>2026-05-11: 0 contributions</title>
+<path d="M395.5,183.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:598.6px 183.7px;animation-delay:1.056s"><title>2026-08-25: 0 contributions</title>
+<path d="M598.6,183.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:179.2px 183.85px;animation-delay:0.253s"><title>2026-01-18: 0 contributions</title>
+<path d="M179.2,183.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:382.3px 184.1px;animation-delay:0.643s"><title>2026-05-04: 0 contributions</title>
+<path d="M382.3,184.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:585.4px 184.35px;animation-delay:1.033s"><title>2026-08-18: 0 contributions</title>
+<path d="M585.4,184.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:166px 184.5px;animation-delay:0.230s"><title>2026-01-11: 11 contributions</title>
+<path d="M166,122.32399770799609l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M166,122.32399770799609l5,5v62.17600229200392l-5,-5z" fill="#2da44e"/><path d="M171,127.32399770799609l10,-4v62.17600229200392l-10,4z" fill="#2da44e"/><path d="M171,127.32399770799609l10,-4v62.17600229200392l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:369.1px 184.75px;animation-delay:0.620s"><title>2026-04-27: 0 contributions</title>
+<path d="M369.1,184.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:572.2px 185px;animation-delay:1.010s"><title>2026-08-11: 0 contributions</title>
+<path d="M572.2,185l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:152.8px 185.15px;animation-delay:0.207s"><title>2026-01-04: 0 contributions</title>
+<path d="M152.8,185.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:355.9px 185.4px;animation-delay:0.597s"><title>2026-04-20: 0 contributions</title>
+<path d="M355.9,185.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:559px 185.65px;animation-delay:0.987s"><title>2026-08-04: 0 contributions</title>
+<path d="M559,185.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:139.6px 185.8px;animation-delay:0.184s"><title>2025-12-28: 0 contributions</title>
+<path d="M139.6,185.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:342.7px 186.05px;animation-delay:0.574s"><title>2026-04-13: 0 contributions</title>
+<path d="M342.7,186.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:545.8px 186.3px;animation-delay:0.964s"><title>2026-07-28: 0 contributions</title>
+<path d="M545.8,186.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:126.39999999999999px 186.45px;animation-delay:0.161s"><title>2025-12-21: 0 contributions</title>
+<path d="M126.39999999999999,186.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:329.5px 186.7px;animation-delay:0.551s"><title>2026-04-06: 0 contributions</title>
+<path d="M329.5,186.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:532.6px 186.95px;animation-delay:0.941s"><title>2026-07-21: 0 contributions</title>
+<path d="M532.6,186.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:113.19999999999999px 187.1px;animation-delay:0.138s"><title>2025-12-14: 0 contributions</title>
+<path d="M113.19999999999999,187.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:316.3px 187.35px;animation-delay:0.528s"><title>2026-03-30: 2 contributions</title>
+<path d="M316.3,157.97007070598949l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M316.3,157.97007070598949l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M321.3,162.97007070598949l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M321.3,162.97007070598949l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:519.4px 187.6px;animation-delay:0.918s"><title>2026-07-14: 0 contributions</title>
+<path d="M519.4,187.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:100px 187.75px;animation-delay:0.115s"><title>2025-12-07: 18 contributions</title>
+<path d="M100,109.61021211796844l10,-4 5,5 -10,4z" fill="#116329" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M100,109.61021211796844l5,5v78.13978788203156l-5,-5z" fill="#116329"/><path d="M105,114.61021211796844l10,-4v78.13978788203156l-10,4z" fill="#116329"/><path d="M105,114.61021211796844l10,-4v78.13978788203156l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:722.4999999999999px 187.85px;animation-delay:1.308s"><title>2026-10-28: 0 contributions</title>
+<path d="M722.4999999999999,187.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:303.1px 188px;animation-delay:0.505s"><title>2026-03-23: 0 contributions</title>
+<path d="M303.1,188l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:506.2px 188.25px;animation-delay:0.895s"><title>2026-07-07: 0 contributions</title>
+<path d="M506.2,188.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:86.8px 188.4px;animation-delay:0.092s"><title>2025-11-30: 0 contributions</title>
+<path d="M86.8,188.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:709.3px 188.5px;animation-delay:1.285s"><title>2026-10-21: 2 contributions</title>
+<path d="M709.3,159.12007070598946l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M709.3,159.12007070598946l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M714.3,164.12007070598946l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M714.3,164.12007070598946l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:289.9px 188.65px;animation-delay:0.482s"><title>2026-03-16: 0 contributions</title>
+<path d="M289.9,188.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:492.99999999999994px 188.9px;animation-delay:0.872s"><title>2026-06-30: 0 contributions</title>
+<path d="M492.99999999999994,188.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:73.6px 189.05px;animation-delay:0.069s"><title>2025-11-23: 0 contributions</title>
+<path d="M73.6,189.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:696.0999999999999px 189.15px;animation-delay:1.262s"><title>2026-10-14: 0 contributions</title>
+<path d="M696.0999999999999,189.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:276.70000000000005px 189.3px;animation-delay:0.459s"><title>2026-03-09: 0 contributions</title>
+<path d="M276.70000000000005,189.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:479.79999999999995px 189.55px;animation-delay:0.849s"><title>2026-06-23: 0 contributions</title>
+<path d="M479.79999999999995,189.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:60.4px 189.7px;animation-delay:0.046s"><title>2025-11-16: 3 contributions</title>
+<path d="M60.4,154.84080663227104l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M60.4,154.84080663227104l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M65.4,159.84080663227104l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M65.4,159.84080663227104l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:682.8999999999999px 189.8px;animation-delay:1.239s"><title>2026-10-07: 0 contributions</title>
+<path d="M682.8999999999999,189.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:263.5px 189.95px;animation-delay:0.436s"><title>2026-03-02: 0 contributions</title>
+<path d="M263.5,189.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:466.59999999999997px 190.2px;animation-delay:0.826s"><title>2026-06-16: 0 contributions</title>
+<path d="M466.59999999999997,190.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:47.2px 190.35px;animation-delay:0.023s"><title>2025-11-09: 2 contributions</title>
+<path d="M47.2,160.97007070598949l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M47.2,160.97007070598949l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M52.2,165.97007070598949l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M52.2,165.97007070598949l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:669.6999999999999px 190.45px;animation-delay:1.216s"><title>2026-09-30: 5 contributions</title>
+<path d="M669.6999999999999,146.90194711853292l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M669.6999999999999,146.90194711853292l5,5v43.548052881467065l-5,-5z" fill="#aceebb"/><path d="M674.6999999999999,151.90194711853292l10,-4v43.548052881467065l-10,4z" fill="#aceebb"/><path d="M674.6999999999999,151.90194711853292l10,-4v43.548052881467065l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:250.29999999999998px 190.6px;animation-delay:0.413s"><title>2026-02-23: 0 contributions</title>
+<path d="M250.29999999999998,190.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:453.4px 190.85px;animation-delay:0.803s"><title>2026-06-09: 0 contributions</title>
+<path d="M453.4,190.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:34px 191px;animation-delay:0.000s"><title>2025-11-02: 1 contributions</title>
+<path d="M34,168.7607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M34,168.7607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M39,173.7607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M39,173.7607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:656.4999999999999px 191.1px;animation-delay:1.193s"><title>2026-09-23: 0 contributions</title>
+<path d="M656.4999999999999,191.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:237.1px 191.25px;animation-delay:0.390s"><title>2026-02-16: 0 contributions</title>
+<path d="M237.1,191.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:440.2px 191.5px;animation-delay:0.780s"><title>2026-06-02: 0 contributions</title>
+<path d="M440.2,191.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:643.3px 191.75px;animation-delay:1.170s"><title>2026-09-16: 0 contributions</title>
+<path d="M643.3,191.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:223.89999999999998px 191.9px;animation-delay:0.367s"><title>2026-02-09: 0 contributions</title>
+<path d="M223.89999999999998,191.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:426.99999999999994px 192.15px;animation-delay:0.757s"><title>2026-05-26: 0 contributions</title>
+<path d="M426.99999999999994,192.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:630.0999999999999px 192.4px;animation-delay:1.147s"><title>2026-09-09: 0 contributions</title>
+<path d="M630.0999999999999,192.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:210.7px 192.55px;animation-delay:0.344s"><title>2026-02-02: 2 contributions</title>
+<path d="M210.7,163.17007070598947l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M210.7,163.17007070598947l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M215.7,168.17007070598947l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M215.7,168.17007070598947l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:413.79999999999995px 192.8px;animation-delay:0.734s"><title>2026-05-19: 0 contributions</title>
+<path d="M413.79999999999995,192.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:616.9px 193.05px;animation-delay:1.124s"><title>2026-09-02: 0 contributions</title>
+<path d="M616.9,193.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:197.49999999999997px 193.2px;animation-delay:0.321s"><title>2026-01-26: 0 contributions</title>
+<path d="M197.49999999999997,193.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:400.59999999999997px 193.45px;animation-delay:0.711s"><title>2026-05-12: 0 contributions</title>
+<path d="M400.59999999999997,193.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:603.6999999999999px 193.7px;animation-delay:1.101s"><title>2026-08-26: 2 contributions</title>
+<path d="M603.6999999999999,164.32007070598945l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M603.6999999999999,164.32007070598945l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M608.6999999999999,169.32007070598945l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M608.6999999999999,169.32007070598945l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:184.29999999999998px 193.85px;animation-delay:0.298s"><title>2026-01-19: 0 contributions</title>
+<path d="M184.29999999999998,193.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:387.4px 194.1px;animation-delay:0.688s"><title>2026-05-05: 0 contributions</title>
+<path d="M387.4,194.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:590.4999999999999px 194.35px;animation-delay:1.078s"><title>2026-08-19: 0 contributions</title>
+<path d="M590.4999999999999,194.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:171.1px 194.5px;animation-delay:0.275s"><title>2026-01-12: 0 contributions</title>
+<path d="M171.1,194.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:374.2px 194.75px;animation-delay:0.665s"><title>2026-04-28: 0 contributions</title>
+<path d="M374.2,194.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:577.3px 195px;animation-delay:1.055s"><title>2026-08-12: 0 contributions</title>
+<path d="M577.3,195l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:157.9px 195.15px;animation-delay:0.252s"><title>2026-01-05: 0 contributions</title>
+<path d="M157.9,195.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:360.99999999999994px 195.4px;animation-delay:0.642s"><title>2026-04-21: 0 contributions</title>
+<path d="M360.99999999999994,195.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:564.0999999999999px 195.65px;animation-delay:1.032s"><title>2026-08-05: 0 contributions</title>
+<path d="M564.0999999999999,195.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:144.7px 195.8px;animation-delay:0.229s"><title>2025-12-29: 1 contributions</title>
+<path d="M144.7,173.56078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M144.7,173.56078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M149.7,178.56078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M149.7,178.56078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:347.79999999999995px 196.05px;animation-delay:0.619s"><title>2026-04-14: 1 contributions</title>
+<path d="M347.79999999999995,173.81078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M347.79999999999995,173.81078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M352.79999999999995,178.81078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M352.79999999999995,178.81078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:550.8999999999999px 196.3px;animation-delay:1.009s"><title>2026-07-29: 0 contributions</title>
+<path d="M550.8999999999999,196.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:131.5px 196.45px;animation-delay:0.206s"><title>2025-12-22: 0 contributions</title>
+<path d="M131.5,196.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:334.59999999999997px 196.7px;animation-delay:0.596s"><title>2026-04-07: 0 contributions</title>
+<path d="M334.59999999999997,196.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:537.6999999999999px 196.95px;animation-delay:0.986s"><title>2026-07-22: 0 contributions</title>
+<path d="M537.6999999999999,196.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:118.29999999999998px 197.1px;animation-delay:0.183s"><title>2025-12-15: 1 contributions</title>
+<path d="M118.29999999999998,174.8607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M118.29999999999998,174.8607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M123.29999999999998,179.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M123.29999999999998,179.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:321.4px 197.35px;animation-delay:0.573s"><title>2026-03-31: 0 contributions</title>
+<path d="M321.4,197.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:524.5px 197.6px;animation-delay:0.963s"><title>2026-07-15: 0 contributions</title>
+<path d="M524.5,197.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:105.1px 197.75px;animation-delay:0.160s"><title>2025-12-08: 5 contributions</title>
+<path d="M105.1,154.20194711853293l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M105.1,154.20194711853293l5,5v43.548052881467065l-5,-5z" fill="#aceebb"/><path d="M110.1,159.20194711853293l10,-4v43.548052881467065l-10,4z" fill="#aceebb"/><path d="M110.1,159.20194711853293l10,-4v43.548052881467065l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:727.5999999999999px 197.85px;animation-delay:1.353s"><title>2026-10-29: 0 contributions</title>
+<path d="M727.5999999999999,197.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:308.2px 198px;animation-delay:0.550s"><title>2026-03-24: 0 contributions</title>
+<path d="M308.2,198l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:511.3px 198.25px;animation-delay:0.940s"><title>2026-07-08: 0 contributions</title>
+<path d="M511.3,198.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:91.89999999999999px 198.4px;animation-delay:0.137s"><title>2025-12-01: 1 contributions</title>
+<path d="M91.89999999999999,176.16078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M91.89999999999999,176.16078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M96.89999999999999,181.16078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M96.89999999999999,181.16078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:714.4px 198.5px;animation-delay:1.330s"><title>2026-10-22: 0 contributions</title>
+<path d="M714.4,198.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:294.99999999999994px 198.65px;animation-delay:0.527s"><title>2026-03-17: 0 contributions</title>
+<path d="M294.99999999999994,198.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:498.09999999999997px 198.9px;animation-delay:0.917s"><title>2026-07-01: 0 contributions</title>
+<path d="M498.09999999999997,198.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:78.69999999999999px 199.05px;animation-delay:0.114s"><title>2025-11-24: 1 contributions</title>
+<path d="M78.69999999999999,176.81078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M78.69999999999999,176.81078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M83.69999999999999,181.81078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M83.69999999999999,181.81078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:701.1999999999999px 199.15px;animation-delay:1.307s"><title>2026-10-15: 1 contributions</title>
+<path d="M701.1999999999999,176.91078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M701.1999999999999,176.91078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M706.1999999999999,181.91078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M706.1999999999999,181.91078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:281.8px 199.3px;animation-delay:0.504s"><title>2026-03-10: 0 contributions</title>
+<path d="M281.8,199.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:484.9px 199.55px;animation-delay:0.894s"><title>2026-06-24: 0 contributions</title>
+<path d="M484.9,199.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:65.5px 199.7px;animation-delay:0.091s"><title>2025-11-17: 1 contributions</title>
+<path d="M65.5,177.4607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M65.5,177.4607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M70.5,182.4607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M70.5,182.4607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:687.9999999999999px 199.8px;animation-delay:1.284s"><title>2026-10-08: 0 contributions</title>
+<path d="M687.9999999999999,199.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:268.59999999999997px 199.95px;animation-delay:0.481s"><title>2026-03-03: 0 contributions</title>
+<path d="M268.59999999999997,199.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:471.7px 200.2px;animation-delay:0.871s"><title>2026-06-17: 0 contributions</title>
+<path d="M471.7,200.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:52.300000000000004px 200.35px;animation-delay:0.068s"><title>2025-11-10: 18 contributions</title>
+<path d="M52.300000000000004,122.21021211796844l10,-4 5,5 -10,4z" fill="#116329" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M52.300000000000004,122.21021211796844l5,5v78.13978788203156l-5,-5z" fill="#116329"/><path d="M57.300000000000004,127.21021211796844l10,-4v78.13978788203156l-10,4z" fill="#116329"/><path d="M57.300000000000004,127.21021211796844l10,-4v78.13978788203156l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:674.8px 200.45px;animation-delay:1.261s"><title>2026-10-01: 0 contributions</title>
+<path d="M674.8,200.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:255.39999999999998px 200.6px;animation-delay:0.458s"><title>2026-02-24: 0 contributions</title>
+<path d="M255.39999999999998,200.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:458.5px 200.85px;animation-delay:0.848s"><title>2026-06-10: 0 contributions</title>
+<path d="M458.5,200.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:39.1px 201px;animation-delay:0.045s"><title>2025-11-03: 0 contributions</title>
+<path d="M39.1,201l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:661.5999999999999px 201.1px;animation-delay:1.238s"><title>2026-09-24: 0 contributions</title>
+<path d="M661.5999999999999,201.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:242.2px 201.25px;animation-delay:0.435s"><title>2026-02-17: 0 contributions</title>
+<path d="M242.2,201.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:445.3px 201.5px;animation-delay:0.825s"><title>2026-06-03: 0 contributions</title>
+<path d="M445.3,201.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:648.4px 201.75px;animation-delay:1.215s"><title>2026-09-17: 0 contributions</title>
+<path d="M648.4,201.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:228.99999999999997px 201.9px;animation-delay:0.412s"><title>2026-02-10: 4 contributions</title>
+<path d="M228.99999999999997,162.4215733427132l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M228.99999999999997,162.4215733427132l5,5v39.478426657286796l-5,-5z" fill="#aceebb"/><path d="M233.99999999999997,167.4215733427132l10,-4v39.478426657286796l-10,4z" fill="#aceebb"/><path d="M233.99999999999997,167.4215733427132l10,-4v39.478426657286796l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:432.09999999999997px 202.15px;animation-delay:0.802s"><title>2026-05-27: 0 contributions</title>
+<path d="M432.09999999999997,202.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:635.1999999999999px 202.4px;animation-delay:1.192s"><title>2026-09-10: 0 contributions</title>
+<path d="M635.1999999999999,202.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:215.79999999999998px 202.55px;animation-delay:0.389s"><title>2026-02-03: 0 contributions</title>
+<path d="M215.79999999999998,202.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:418.9px 202.8px;animation-delay:0.779s"><title>2026-05-20: 0 contributions</title>
+<path d="M418.9,202.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:622px 203.05px;animation-delay:1.169s"><title>2026-09-03: 0 contributions</title>
+<path d="M622,203.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:202.59999999999997px 203.2px;animation-delay:0.366s"><title>2026-01-27: 0 contributions</title>
+<path d="M202.59999999999997,203.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:405.7px 203.45px;animation-delay:0.756s"><title>2026-05-13: 0 contributions</title>
+<path d="M405.7,203.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:608.8px 203.7px;animation-delay:1.146s"><title>2026-08-27: 0 contributions</title>
+<path d="M608.8,203.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:189.39999999999998px 203.85px;animation-delay:0.343s"><title>2026-01-20: 0 contributions</title>
+<path d="M189.39999999999998,203.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:392.5px 204.1px;animation-delay:0.733s"><title>2026-05-06: 0 contributions</title>
+<path d="M392.5,204.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:595.5999999999999px 204.35px;animation-delay:1.123s"><title>2026-08-20: 4 contributions</title>
+<path d="M595.5999999999999,164.8715733427132l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M595.5999999999999,164.8715733427132l5,5v39.478426657286796l-5,-5z" fill="#aceebb"/><path d="M600.5999999999999,169.8715733427132l10,-4v39.478426657286796l-10,4z" fill="#aceebb"/><path d="M600.5999999999999,169.8715733427132l10,-4v39.478426657286796l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:176.2px 204.5px;animation-delay:0.320s"><title>2026-01-13: 0 contributions</title>
+<path d="M176.2,204.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:379.3px 204.75px;animation-delay:0.710s"><title>2026-04-29: 0 contributions</title>
+<path d="M379.3,204.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:582.4px 205px;animation-delay:1.100s"><title>2026-08-13: 0 contributions</title>
+<path d="M582.4,205l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:163px 205.15px;animation-delay:0.297s"><title>2026-01-06: 0 contributions</title>
+<path d="M163,205.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:366.09999999999997px 205.4px;animation-delay:0.687s"><title>2026-04-22: 0 contributions</title>
+<path d="M366.09999999999997,205.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:569.1999999999999px 205.65px;animation-delay:1.077s"><title>2026-08-06: 0 contributions</title>
+<path d="M569.1999999999999,205.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:149.79999999999998px 205.8px;animation-delay:0.274s"><title>2025-12-30: 0 contributions</title>
+<path d="M149.79999999999998,205.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:352.9px 206.05px;animation-delay:0.664s"><title>2026-04-15: 3 contributions</title>
+<path d="M352.9,171.19080663227106l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M352.9,171.19080663227106l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M357.9,176.19080663227106l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M357.9,176.19080663227106l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:555.9999999999999px 206.3px;animation-delay:1.054s"><title>2026-07-30: 0 contributions</title>
+<path d="M555.9999999999999,206.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:136.6px 206.45px;animation-delay:0.251s"><title>2025-12-23: 0 contributions</title>
+<path d="M136.6,206.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:339.7px 206.7px;animation-delay:0.641s"><title>2026-04-08: 18 contributions</title>
+<path d="M339.7,128.56021211796843l10,-4 5,5 -10,4z" fill="#116329" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M339.7,128.56021211796843l5,5v78.13978788203156l-5,-5z" fill="#116329"/><path d="M344.7,133.56021211796843l10,-4v78.13978788203156l-10,4z" fill="#116329"/><path d="M344.7,133.56021211796843l10,-4v78.13978788203156l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:542.8px 206.95px;animation-delay:1.031s"><title>2026-07-23: 0 contributions</title>
+<path d="M542.8,206.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:123.39999999999999px 207.1px;animation-delay:0.228s"><title>2025-12-16: 1 contributions</title>
+<path d="M123.39999999999999,184.8607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M123.39999999999999,184.8607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M128.39999999999998,189.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M128.39999999999998,189.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:326.5px 207.35px;animation-delay:0.618s"><title>2026-04-01: 0 contributions</title>
+<path d="M326.5,207.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:529.6px 207.6px;animation-delay:1.008s"><title>2026-07-16: 0 contributions</title>
+<path d="M529.6,207.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:110.2px 207.75px;animation-delay:0.205s"><title>2025-12-09: 0 contributions</title>
+<path d="M110.2,207.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:732.6999999999999px 207.85px;animation-delay:1.398s"><title>2026-10-30: 0 contributions</title>
+<path d="M732.6999999999999,207.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:313.3px 208px;animation-delay:0.595s"><title>2026-03-25: 0 contributions</title>
+<path d="M313.3,208l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:516.4px 208.25px;animation-delay:0.985s"><title>2026-07-09: 0 contributions</title>
+<path d="M516.4,208.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:97px 208.4px;animation-delay:0.182s"><title>2025-12-02: 1 contributions</title>
+<path d="M97,186.16078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M97,186.16078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M102,191.16078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M102,191.16078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:719.5px 208.5px;animation-delay:1.375s"><title>2026-10-23: 0 contributions</title>
+<path d="M719.5,208.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:300.09999999999997px 208.65px;animation-delay:0.572s"><title>2026-03-18: 0 contributions</title>
+<path d="M300.09999999999997,208.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:503.19999999999993px 208.9px;animation-delay:0.962s"><title>2026-07-02: 0 contributions</title>
+<path d="M503.19999999999993,208.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:83.8px 209.05px;animation-delay:0.159s"><title>2025-11-25: 0 contributions</title>
+<path d="M83.8,209.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:706.3px 209.15px;animation-delay:1.352s"><title>2026-10-16: 0 contributions</title>
+<path d="M706.3,209.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:286.90000000000003px 209.3px;animation-delay:0.549s"><title>2026-03-11: 0 contributions</title>
+<path d="M286.90000000000003,209.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:489.99999999999994px 209.55px;animation-delay:0.939s"><title>2026-06-25: 0 contributions</title>
+<path d="M489.99999999999994,209.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:70.6px 209.7px;animation-delay:0.136s"><title>2025-11-18: 0 contributions</title>
+<path d="M70.6,209.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:693.0999999999999px 209.8px;animation-delay:1.329s"><title>2026-10-09: 0 contributions</title>
+<path d="M693.0999999999999,209.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:273.7px 209.95px;animation-delay:0.526s"><title>2026-03-04: 0 contributions</title>
+<path d="M273.7,209.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:476.79999999999995px 210.2px;animation-delay:0.916s"><title>2026-06-18: 0 contributions</title>
+<path d="M476.79999999999995,210.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:57.400000000000006px 210.35px;animation-delay:0.113s"><title>2025-11-11: 1 contributions</title>
+<path d="M57.400000000000006,188.1107866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M57.400000000000006,188.1107866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M62.400000000000006,193.1107866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M62.400000000000006,193.1107866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:679.9px 210.45px;animation-delay:1.306s"><title>2026-10-02: 0 contributions</title>
+<path d="M679.9,210.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:260.5px 210.6px;animation-delay:0.503s"><title>2026-02-25: 14 contributions</title>
+<path d="M260.5,141.09677010670964l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M260.5,141.09677010670964l5,5v69.50322989329035l-5,-5z" fill="#2da44e"/><path d="M265.5,146.09677010670964l10,-4v69.50322989329035l-10,4z" fill="#2da44e"/><path d="M265.5,146.09677010670964l10,-4v69.50322989329035l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:463.59999999999997px 210.85px;animation-delay:0.893s"><title>2026-06-11: 0 contributions</title>
+<path d="M463.59999999999997,210.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:44.2px 211px;animation-delay:0.090s"><title>2025-11-04: 0 contributions</title>
+<path d="M44.2,211l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:666.6999999999999px 211.1px;animation-delay:1.283s"><title>2026-09-25: 0 contributions</title>
+<path d="M666.6999999999999,211.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:247.3px 211.25px;animation-delay:0.480s"><title>2026-02-18: 0 contributions</title>
+<path d="M247.3,211.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:450.4px 211.5px;animation-delay:0.870s"><title>2026-06-04: 0 contributions</title>
+<path d="M450.4,211.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:653.5px 211.75px;animation-delay:1.260s"><title>2026-09-18: 0 contributions</title>
+<path d="M653.5,211.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:234.1px 211.9px;animation-delay:0.457s"><title>2026-02-11: 9 contributions</title>
+<path d="M234.1,155.18236001406981l10,-4 5,5 -10,4z" fill="#4ac26b" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M234.1,155.18236001406981l5,5v56.71763998593019l-5,-5z" fill="#4ac26b"/><path d="M239.1,160.18236001406981l10,-4v56.71763998593019l-10,4z" fill="#4ac26b"/><path d="M239.1,160.18236001406981l10,-4v56.71763998593019l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:437.19999999999993px 212.15px;animation-delay:0.847s"><title>2026-05-28: 0 contributions</title>
+<path d="M437.19999999999993,212.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:640.3px 212.4px;animation-delay:1.237s"><title>2026-09-11: 0 contributions</title>
+<path d="M640.3,212.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:220.9px 212.55px;animation-delay:0.434s"><title>2026-02-04: 0 contributions</title>
+<path d="M220.9,212.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:423.99999999999994px 212.8px;animation-delay:0.824s"><title>2026-05-21: 0 contributions</title>
+<path d="M423.99999999999994,212.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:627.1px 213.05px;animation-delay:1.214s"><title>2026-09-04: 0 contributions</title>
+<path d="M627.1,213.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:207.7px 213.2px;animation-delay:0.411s"><title>2026-01-28: 0 contributions</title>
+<path d="M207.7,213.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:410.79999999999995px 213.45px;animation-delay:0.801s"><title>2026-05-14: 0 contributions</title>
+<path d="M410.79999999999995,213.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:613.9px 213.7px;animation-delay:1.191s"><title>2026-08-28: 0 contributions</title>
+<path d="M613.9,213.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:194.5px 213.85px;animation-delay:0.388s"><title>2026-01-21: 11 contributions</title>
+<path d="M194.5,151.67399770799608l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M194.5,151.67399770799608l5,5v62.17600229200392l-5,-5z" fill="#2da44e"/><path d="M199.5,156.67399770799608l10,-4v62.17600229200392l-10,4z" fill="#2da44e"/><path d="M199.5,156.67399770799608l10,-4v62.17600229200392l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:397.59999999999997px 214.1px;animation-delay:0.778s"><title>2026-05-07: 0 contributions</title>
+<path d="M397.59999999999997,214.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:600.6999999999999px 214.35px;animation-delay:1.168s"><title>2026-08-21: 0 contributions</title>
+<path d="M600.6999999999999,214.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:181.3px 214.5px;animation-delay:0.365s"><title>2026-01-14: 0 contributions</title>
+<path d="M181.3,214.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:384.4px 214.75px;animation-delay:0.755s"><title>2026-04-30: 0 contributions</title>
+<path d="M384.4,214.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:587.5px 215px;animation-delay:1.145s"><title>2026-08-14: 0 contributions</title>
+<path d="M587.5,215l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:168.10000000000002px 215.15px;animation-delay:0.342s"><title>2026-01-07: 0 contributions</title>
+<path d="M168.10000000000002,215.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:371.19999999999993px 215.4px;animation-delay:0.732s"><title>2026-04-23: 0 contributions</title>
+<path d="M371.19999999999993,215.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:574.3px 215.65px;animation-delay:1.122s"><title>2026-08-07: 0 contributions</title>
+<path d="M574.3,215.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:154.9px 215.8px;animation-delay:0.319s"><title>2025-12-31: 0 contributions</title>
+<path d="M154.9,215.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:357.99999999999994px 216.05px;animation-delay:0.709s"><title>2026-04-16: 0 contributions</title>
+<path d="M357.99999999999994,216.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:561.0999999999999px 216.3px;animation-delay:1.099s"><title>2026-07-31: 0 contributions</title>
+<path d="M561.0999999999999,216.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:141.7px 216.45px;animation-delay:0.296s"><title>2025-12-24: 0 contributions</title>
+<path d="M141.7,216.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:344.79999999999995px 216.7px;animation-delay:0.686s"><title>2026-04-09: 0 contributions</title>
+<path d="M344.79999999999995,216.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:547.9px 216.95px;animation-delay:1.076s"><title>2026-07-24: 0 contributions</title>
+<path d="M547.9,216.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:128.5px 217.1px;animation-delay:0.273s"><title>2025-12-17: 1 contributions</title>
+<path d="M128.5,194.8607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M128.5,194.8607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M133.5,199.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M133.5,199.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:331.59999999999997px 217.35px;animation-delay:0.663s"><title>2026-04-02: 0 contributions</title>
+<path d="M331.59999999999997,217.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:534.7px 217.6px;animation-delay:1.053s"><title>2026-07-17: 0 contributions</title>
+<path d="M534.7,217.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:115.3px 217.75px;animation-delay:0.250s"><title>2025-12-10: 1 contributions</title>
+<path d="M115.3,195.5107866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M115.3,195.5107866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M120.3,200.5107866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M120.3,200.5107866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:737.8px 217.85px;animation-delay:1.443s"><title>2026-10-31: 0 contributions</title>
+<path d="M737.8,217.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:318.4px 218px;animation-delay:0.640s"><title>2026-03-26: 0 contributions</title>
+<path d="M318.4,218l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:521.5px 218.25px;animation-delay:1.030s"><title>2026-07-10: 1 contributions</title>
+<path d="M521.5,196.0107866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M521.5,196.0107866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M526.5,201.0107866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M526.5,201.0107866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:102.1px 218.4px;animation-delay:0.227s"><title>2025-12-03: 2 contributions</title>
+<path d="M102.1,189.0200707059895l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M102.1,189.0200707059895l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M107.1,194.0200707059895l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M107.1,194.0200707059895l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:724.6px 218.5px;animation-delay:1.420s"><title>2026-10-24: 0 contributions</title>
+<path d="M724.6,218.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:305.19999999999993px 218.65px;animation-delay:0.617s"><title>2026-03-19: 0 contributions</title>
+<path d="M305.19999999999993,218.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:508.29999999999995px 218.9px;animation-delay:1.007s"><title>2026-07-03: 0 contributions</title>
+<path d="M508.29999999999995,218.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:88.89999999999999px 219.05px;animation-delay:0.204s"><title>2025-11-26: 0 contributions</title>
+<path d="M88.89999999999999,219.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:711.4px 219.15px;animation-delay:1.397s"><title>2026-10-17: 4 contributions</title>
+<path d="M711.4,179.6715733427132l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M711.4,179.6715733427132l5,5v39.478426657286796l-5,-5z" fill="#aceebb"/><path d="M716.4,184.6715733427132l10,-4v39.478426657286796l-10,4z" fill="#aceebb"/><path d="M716.4,184.6715733427132l10,-4v39.478426657286796l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:292px 219.3px;animation-delay:0.594s"><title>2026-03-12: 0 contributions</title>
+<path d="M292,219.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:495.09999999999997px 219.55px;animation-delay:0.984s"><title>2026-06-26: 0 contributions</title>
+<path d="M495.09999999999997,219.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:75.7px 219.7px;animation-delay:0.181s"><title>2025-11-19: 0 contributions</title>
+<path d="M75.7,219.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:698.1999999999999px 219.8px;animation-delay:1.374s"><title>2026-10-10: 8 contributions</title>
+<path d="M698.1999999999999,166.04014141197896l10,-4 5,5 -10,4z" fill="#4ac26b" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M698.1999999999999,166.04014141197896l5,5v53.759858588021046l-5,-5z" fill="#4ac26b"/><path d="M703.1999999999999,171.04014141197896l10,-4v53.759858588021046l-10,4z" fill="#4ac26b"/><path d="M703.1999999999999,171.04014141197896l10,-4v53.759858588021046l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:278.79999999999995px 219.95px;animation-delay:0.571s"><title>2026-03-05: 0 contributions</title>
+<path d="M278.79999999999995,219.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:481.9px 220.2px;animation-delay:0.961s"><title>2026-06-19: 0 contributions</title>
+<path d="M481.9,220.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:62.5px 220.35px;animation-delay:0.158s"><title>2025-11-12: 3 contributions</title>
+<path d="M62.5,185.49080663227105l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M62.5,185.49080663227105l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M67.5,190.49080663227105l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M67.5,190.49080663227105l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:685px 220.45px;animation-delay:1.351s"><title>2026-10-03: 0 contributions</title>
+<path d="M685,220.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:265.59999999999997px 220.6px;animation-delay:0.548s"><title>2026-02-26: 0 contributions</title>
+<path d="M265.59999999999997,220.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:468.7px 220.85px;animation-delay:0.938s"><title>2026-06-12: 0 contributions</title>
+<path d="M468.7,220.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:49.3px 221px;animation-delay:0.135s"><title>2025-11-05: 0 contributions</title>
+<path d="M49.3,221l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:671.8px 221.1px;animation-delay:1.328s"><title>2026-09-26: 3 contributions</title>
+<path d="M671.8,186.24080663227105l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M671.8,186.24080663227105l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M676.8,191.24080663227105l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M676.8,191.24080663227105l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:252.4px 221.25px;animation-delay:0.525s"><title>2026-02-19: 0 contributions</title>
+<path d="M252.4,221.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:455.5px 221.5px;animation-delay:0.915s"><title>2026-06-05: 0 contributions</title>
+<path d="M455.5,221.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:658.6px 221.75px;animation-delay:1.305s"><title>2026-09-19: 0 contributions</title>
+<path d="M658.6,221.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:239.2px 221.9px;animation-delay:0.502s"><title>2026-02-12: 0 contributions</title>
+<path d="M239.2,221.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:442.29999999999995px 222.15px;animation-delay:0.892s"><title>2026-05-29: 0 contributions</title>
+<path d="M442.29999999999995,222.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:645.4px 222.4px;animation-delay:1.282s"><title>2026-09-12: 0 contributions</title>
+<path d="M645.4,222.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:226px 222.55px;animation-delay:0.479s"><title>2026-02-05: 0 contributions</title>
+<path d="M226,222.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:429.09999999999997px 222.8px;animation-delay:0.869s"><title>2026-05-22: 0 contributions</title>
+<path d="M429.09999999999997,222.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:632.2px 223.05px;animation-delay:1.259s"><title>2026-09-05: 0 contributions</title>
+<path d="M632.2,223.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:212.79999999999998px 223.2px;animation-delay:0.456s"><title>2026-01-29: 0 contributions</title>
+<path d="M212.79999999999998,223.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:415.9px 223.45px;animation-delay:0.846s"><title>2026-05-15: 0 contributions</title>
+<path d="M415.9,223.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:619px 223.7px;animation-delay:1.236s"><title>2026-08-29: 2 contributions</title>
+<path d="M619,194.32007070598945l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M619,194.32007070598945l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M624,199.32007070598945l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M624,199.32007070598945l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:199.6px 223.85px;animation-delay:0.433s"><title>2026-01-22: 2 contributions</title>
+<path d="M199.6,194.47007070598949l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M199.6,194.47007070598949l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M204.6,199.47007070598949l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M204.6,199.47007070598949l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:402.7px 224.1px;animation-delay:0.823s"><title>2026-05-08: 0 contributions</title>
+<path d="M402.7,224.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:605.8px 224.35px;animation-delay:1.213s"><title>2026-08-22: 0 contributions</title>
+<path d="M605.8,224.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:186.4px 224.5px;animation-delay:0.410s"><title>2026-01-15: 0 contributions</title>
+<path d="M186.4,224.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:389.5px 224.75px;animation-delay:0.800s"><title>2026-05-01: 0 contributions</title>
+<path d="M389.5,224.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:592.6px 225px;animation-delay:1.190s"><title>2026-08-15: 0 contributions</title>
+<path d="M592.6,225l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:173.20000000000002px 225.15px;animation-delay:0.387s"><title>2026-01-08: 0 contributions</title>
+<path d="M173.20000000000002,225.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:376.29999999999995px 225.4px;animation-delay:0.777s"><title>2026-04-24: 0 contributions</title>
+<path d="M376.29999999999995,225.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:579.4px 225.65px;animation-delay:1.167s"><title>2026-08-08: 0 contributions</title>
+<path d="M579.4,225.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:160px 225.8px;animation-delay:0.364s"><title>2026-01-01: 0 contributions</title>
+<path d="M160,225.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:363.09999999999997px 226.05px;animation-delay:0.754s"><title>2026-04-17: 0 contributions</title>
+<path d="M363.09999999999997,226.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:566.1999999999999px 226.3px;animation-delay:1.144s"><title>2026-08-01: 0 contributions</title>
+<path d="M566.1999999999999,226.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:146.79999999999998px 226.45px;animation-delay:0.341s"><title>2025-12-25: 1 contributions</title>
+<path d="M146.79999999999998,204.2107866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M146.79999999999998,204.2107866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M151.79999999999998,209.2107866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M151.79999999999998,209.2107866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:349.9px 226.7px;animation-delay:0.731s"><title>2026-04-10: 0 contributions</title>
+<path d="M349.9,226.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:553px 226.95px;animation-delay:1.121s"><title>2026-07-25: 0 contributions</title>
+<path d="M553,226.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:133.6px 227.1px;animation-delay:0.318s"><title>2025-12-18: 0 contributions</title>
+<path d="M133.6,227.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:336.7px 227.35px;animation-delay:0.708s"><title>2026-04-03: 3 contributions</title>
+<path d="M336.7,192.49080663227105l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M336.7,192.49080663227105l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M341.7,197.49080663227105l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M341.7,197.49080663227105l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:539.8px 227.6px;animation-delay:1.098s"><title>2026-07-18: 0 contributions</title>
+<path d="M539.8,227.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:120.4px 227.75px;animation-delay:0.295s"><title>2025-12-11: 0 contributions</title>
+<path d="M120.4,227.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:323.5px 228px;animation-delay:0.685s"><title>2026-03-27: 0 contributions</title>
+<path d="M323.5,228l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:526.6px 228.25px;animation-delay:1.075s"><title>2026-07-11: 0 contributions</title>
+<path d="M526.6,228.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:107.19999999999999px 228.4px;animation-delay:0.272s"><title>2025-12-04: 2 contributions</title>
+<path d="M107.19999999999999,199.0200707059895l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M107.19999999999999,199.0200707059895l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M112.19999999999999,204.0200707059895l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M112.19999999999999,204.0200707059895l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:310.29999999999995px 228.65px;animation-delay:0.662s"><title>2026-03-20: 0 contributions</title>
+<path d="M310.29999999999995,228.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:513.4px 228.9px;animation-delay:1.052s"><title>2026-07-04: 0 contributions</title>
+<path d="M513.4,228.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:94px 229.05px;animation-delay:0.249s"><title>2025-11-27: 1 contributions</title>
+<path d="M94,206.81078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M94,206.81078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M99,211.81078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M99,211.81078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:297.1px 229.3px;animation-delay:0.639s"><title>2026-03-13: 0 contributions</title>
+<path d="M297.1,229.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:500.2px 229.55px;animation-delay:1.029s"><title>2026-06-27: 0 contributions</title>
+<path d="M500.2,229.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:80.8px 229.7px;animation-delay:0.226s"><title>2025-11-20: 0 contributions</title>
+<path d="M80.8,229.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:283.9px 229.95px;animation-delay:0.616s"><title>2026-03-06: 0 contributions</title>
+<path d="M283.9,229.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:487px 230.2px;animation-delay:1.006s"><title>2026-06-20: 0 contributions</title>
+<path d="M487,230.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:67.6px 230.35px;animation-delay:0.203s"><title>2025-11-13: 0 contributions</title>
+<path d="M67.6,230.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:270.7px 230.6px;animation-delay:0.593s"><title>2026-02-27: 0 contributions</title>
+<path d="M270.7,230.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:473.8px 230.85px;animation-delay:0.983s"><title>2026-06-13: 0 contributions</title>
+<path d="M473.8,230.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:54.4px 231px;animation-delay:0.180s"><title>2025-11-06: 1 contributions</title>
+<path d="M54.4,208.7607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M54.4,208.7607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M59.4,213.7607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M59.4,213.7607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:257.5px 231.25px;animation-delay:0.570s"><title>2026-02-20: 0 contributions</title>
+<path d="M257.5,231.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:460.6px 231.5px;animation-delay:0.960s"><title>2026-06-06: 0 contributions</title>
+<path d="M460.6,231.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:244.29999999999998px 231.9px;animation-delay:0.547s"><title>2026-02-13: 1 contributions</title>
+<path d="M244.29999999999998,209.66078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M244.29999999999998,209.66078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M249.29999999999998,214.66078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M249.29999999999998,214.66078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:447.4px 232.15px;animation-delay:0.937s"><title>2026-05-30: 0 contributions</title>
+<path d="M447.4,232.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:231.1px 232.55px;animation-delay:0.524s"><title>2026-02-06: 0 contributions</title>
+<path d="M231.1,232.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:434.2px 232.8px;animation-delay:0.914s"><title>2026-05-23: 0 contributions</title>
+<path d="M434.2,232.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:217.89999999999998px 233.2px;animation-delay:0.501s"><title>2026-01-30: 2 contributions</title>
+<path d="M217.89999999999998,203.82007070598945l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M217.89999999999998,203.82007070598945l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M222.89999999999998,208.82007070598945l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M222.89999999999998,208.82007070598945l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:421px 233.45px;animation-delay:0.891s"><title>2026-05-16: 0 contributions</title>
+<path d="M421,233.45l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:204.7px 233.85px;animation-delay:0.478s"><title>2026-01-23: 0 contributions</title>
+<path d="M204.7,233.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:407.8px 234.1px;animation-delay:0.868s"><title>2026-05-09: 0 contributions</title>
+<path d="M407.8,234.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:191.5px 234.5px;animation-delay:0.455s"><title>2026-01-16: 0 contributions</title>
+<path d="M191.5,234.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:394.6px 234.75px;animation-delay:0.845s"><title>2026-05-02: 0 contributions</title>
+<path d="M394.6,234.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:178.3px 235.15px;animation-delay:0.432s"><title>2026-01-09: 0 contributions</title>
+<path d="M178.3,235.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:381.4px 235.4px;animation-delay:0.822s"><title>2026-04-25: 0 contributions</title>
+<path d="M381.4,235.4l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:165.1px 235.8px;animation-delay:0.409s"><title>2026-01-02: 0 contributions</title>
+<path d="M165.1,235.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:368.2px 236.05px;animation-delay:0.799s"><title>2026-04-18: 0 contributions</title>
+<path d="M368.2,236.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:151.89999999999998px 236.45px;animation-delay:0.386s"><title>2025-12-26: 1 contributions</title>
+<path d="M151.89999999999998,214.2107866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M151.89999999999998,214.2107866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M156.89999999999998,219.2107866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M156.89999999999998,219.2107866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:355px 236.7px;animation-delay:0.776s"><title>2026-04-11: 0 contributions</title>
+<path d="M355,236.7l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:138.7px 237.1px;animation-delay:0.363s"><title>2025-12-19: 0 contributions</title>
+<path d="M138.7,237.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:341.8px 237.35px;animation-delay:0.753s"><title>2026-04-04: 0 contributions</title>
+<path d="M341.8,237.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:125.5px 237.75px;animation-delay:0.340s"><title>2025-12-12: 0 contributions</title>
+<path d="M125.5,237.75l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:328.6px 238px;animation-delay:0.730s"><title>2026-03-28: 0 contributions</title>
+<path d="M328.6,238l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:112.3px 238.4px;animation-delay:0.317s"><title>2025-12-05: 1 contributions</title>
+<path d="M112.3,216.16078667135662l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M112.3,216.16078667135662l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M117.3,221.16078667135662l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M117.3,221.16078667135662l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:315.4px 238.65px;animation-delay:0.707s"><title>2026-03-21: 0 contributions</title>
+<path d="M315.4,238.65l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:99.1px 239.05px;animation-delay:0.294s"><title>2025-11-28: 2 contributions</title>
+<path d="M99.1,209.67007070598947l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M99.1,209.67007070598947l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M104.1,214.67007070598947l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M104.1,214.67007070598947l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:302.20000000000005px 239.3px;animation-delay:0.684s"><title>2026-03-14: 0 contributions</title>
+<path d="M302.20000000000005,239.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:85.9px 239.7px;animation-delay:0.271s"><title>2025-11-21: 4 contributions</title>
+<path d="M85.9,200.22157334271319l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M85.9,200.22157334271319l5,5v39.478426657286796l-5,-5z" fill="#aceebb"/><path d="M90.9,205.22157334271319l10,-4v39.478426657286796l-10,4z" fill="#aceebb"/><path d="M90.9,205.22157334271319l10,-4v39.478426657286796l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:289px 239.95px;animation-delay:0.661s"><title>2026-03-07: 0 contributions</title>
+<path d="M289,239.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:72.7px 240.35px;animation-delay:0.248s"><title>2025-11-14: 1 contributions</title>
+<path d="M72.7,218.1107866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M72.7,218.1107866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M77.7,223.1107866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M77.7,223.1107866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:275.8px 240.6px;animation-delay:0.638s"><title>2026-02-28: 0 contributions</title>
+<path d="M275.8,240.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:59.5px 241px;animation-delay:0.225s"><title>2025-11-07: 1 contributions</title>
+<path d="M59.5,218.7607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M59.5,218.7607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M64.5,223.7607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M64.5,223.7607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:262.6px 241.25px;animation-delay:0.615s"><title>2026-02-21: 0 contributions</title>
+<path d="M262.6,241.25l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:249.39999999999998px 241.9px;animation-delay:0.592s"><title>2026-02-14: 0 contributions</title>
+<path d="M249.39999999999998,241.9l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:236.2px 242.55px;animation-delay:0.569s"><title>2026-02-07: 0 contributions</title>
+<path d="M236.2,242.55l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:222.99999999999997px 243.2px;animation-delay:0.546s"><title>2026-01-31: 5 contributions</title>
+<path d="M222.99999999999997,199.65194711853292l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M222.99999999999997,199.65194711853292l5,5v43.548052881467065l-5,-5z" fill="#aceebb"/><path d="M227.99999999999997,204.65194711853292l10,-4v43.548052881467065l-10,4z" fill="#aceebb"/><path d="M227.99999999999997,204.65194711853292l10,-4v43.548052881467065l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:209.79999999999998px 243.85px;animation-delay:0.523s"><title>2026-01-24: 0 contributions</title>
+<path d="M209.79999999999998,243.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:196.6px 244.5px;animation-delay:0.500s"><title>2026-01-17: 0 contributions</title>
+<path d="M196.6,244.5l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:183.4px 245.15px;animation-delay:0.477s"><title>2026-01-10: 0 contributions</title>
+<path d="M183.4,245.15l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:170.2px 245.8px;animation-delay:0.454s"><title>2026-01-03: 0 contributions</title>
+<path d="M170.2,245.8l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:157px 246.45px;animation-delay:0.431s"><title>2025-12-27: 1 contributions</title>
+<path d="M157,224.2107866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M157,224.2107866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M162,229.2107866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M162,229.2107866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:143.79999999999998px 247.1px;animation-delay:0.408s"><title>2025-12-20: 0 contributions</title>
+<path d="M143.79999999999998,247.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:130.6px 247.75px;animation-delay:0.385s"><title>2025-12-13: 21 contributions</title>
+<path d="M130.6,163.75l10,-4 5,5 -10,4z" fill="#116329" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M130.6,163.75l5,5v84l-5,-5z" fill="#116329"/><path d="M135.6,168.75l10,-4v84l-10,4z" fill="#116329"/><path d="M135.6,168.75l10,-4v84l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:117.39999999999999px 248.4px;animation-delay:0.362s"><title>2025-12-06: 2 contributions</title>
+<path d="M117.39999999999999,219.0200707059895l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M117.39999999999999,219.0200707059895l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M122.39999999999999,224.0200707059895l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M122.39999999999999,224.0200707059895l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:104.19999999999999px 249.05px;animation-delay:0.339s"><title>2025-11-29: 0 contributions</title>
+<path d="M104.19999999999999,249.05l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:91px 249.7px;animation-delay:0.316s"><title>2025-11-22: 1 contributions</title>
+<path d="M91,227.4607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M91,227.4607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M96,232.4607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M96,232.4607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:77.8px 250.35px;animation-delay:0.293s"><title>2025-11-15: 0 contributions</title>
+<path d="M77.8,250.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:64.6px 251px;animation-delay:0.270s"><title>2025-11-08: 0 contributions</title>
+<path d="M64.6,251l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><path d="M135.6,255.75V275H150" fill="none" stroke="#59636e" stroke-width=".7" stroke-dasharray="3 4"/>
+<text x="150" y="293" text-anchor="middle" class="caption">Peak: 21 · 2025-12-13</text>
+<text x="28" y="319" class="caption">Real GitHub activity · square-root height scale · refreshed daily</text>
+</svg>
