@@ -4,7 +4,7 @@
 <rect x=".5" y=".5" width="799" height="335" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="28" y="32" font-size="12" font-weight="650" letter-spacing="2">MY YEAR, BUILT IN CODE</text>
 <text x="28" y="62" font-size="23" font-weight="700">354 contributions</text>
-<text x="772" y="32" text-anchor="end" class="caption">2025-11-02 → 2026-11-06</text>
+<text x="772" y="32" text-anchor="end" class="caption">2025-11-02 → 2026-11-07</text>
 <text x="772" y="58" text-anchor="end" class="caption">One building for each day</text>
 <g class="building" style="transform-origin:720.4px 157.2px;animation-delay:1.196s"><title>2026-11-01: 0 contributions</title>
 <path d="M720.4,157.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
@@ -512,7 +512,9 @@
 <path d="M547.9,216.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:128.5px 217.1px;animation-delay:0.273s"><title>2025-12-17: 1 contributions</title>
 <path d="M128.5,194.8607866713566l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
-<path d="M128.5,194.8607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M133.5,199.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M133.5,199.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:331.59999999999997px 217.35px;animation-delay:0.663s"><title>2026-04-02: 0 contributions</title>
+<path d="M128.5,194.8607866713566l5,5v22.239213328643398l-5,-5z" fill="#aceebb"/><path d="M133.5,199.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#aceebb"/><path d="M133.5,199.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:751px 217.2px;animation-delay:1.466s"><title>2026-11-07: 0 contributions</title>
+<path d="M751,217.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:331.59999999999997px 217.35px;animation-delay:0.663s"><title>2026-04-02: 0 contributions</title>
 <path d="M331.59999999999997,217.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:534.7px 217.6px;animation-delay:1.053s"><title>2026-07-17: 0 contributions</title>
 <path d="M534.7,217.6l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
