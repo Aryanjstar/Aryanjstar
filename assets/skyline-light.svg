@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="336" viewBox="0 0 800 336" role="img" aria-labelledby="title desc">
-<title id="title">Aryan's contribution skyline</title><desc id="desc">One building per calendar day. Height uses the square root of that day's contributions. 356 GitHub-reported contributions; peak 21 on 2025-12-13.</desc>
+<title id="title">Aryan's contribution skyline</title><desc id="desc">One building per calendar day. Height uses the square root of that day's contributions. 355 GitHub-reported contributions; peak 21 on 2025-12-13.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:#1f2328}.caption{font-size:11px;fill:#59636e}.building{animation:rise .85s cubic-bezier(.2,.7,.3,1) both}@keyframes rise{from{transform:scaleY(.03);opacity:.25}to{transform:scaleY(1);opacity:1}}@media(prefers-reduced-motion:reduce){.building{animation:none}}</style>
 <rect x=".5" y=".5" width="799" height="335" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="28" y="32" font-size="12" font-weight="650" letter-spacing="2">MY YEAR, BUILT IN CODE</text>
-<text x="28" y="62" font-size="23" font-weight="700">356 contributions</text>
-<text x="772" y="32" text-anchor="end" class="caption">2025-11-09 → 2026-11-08</text>
+<text x="28" y="62" font-size="23" font-weight="700">355 contributions</text>
+<text x="772" y="32" text-anchor="end" class="caption">2025-11-09 → 2026-11-09</text>
 <text x="772" y="58" text-anchor="end" class="caption">One building for each day</text>
-<g class="building" style="transform-origin:720.4px 157.2px;animation-delay:1.196s"><title>2026-11-08: 2 contributions</title>
-<path d="M720.4,127.82007070598947l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
-<path d="M720.4,127.82007070598947l5,5v29.379929294010523l-5,-5z" fill="#aceebb"/><path d="M725.4,132.82007070598945l10,-4v29.379929294010523l-10,4z" fill="#aceebb"/><path d="M725.4,132.82007070598945l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:707.1999999999999px 157.85px;animation-delay:1.173s"><title>2026-11-01: 0 contributions</title>
+<g class="building" style="transform-origin:720.4px 157.2px;animation-delay:1.196s"><title>2026-11-08: 4 contributions</title>
+<path d="M720.4,117.72157334271319l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
+<path d="M720.4,117.72157334271319l5,5v39.478426657286796l-5,-5z" fill="#aceebb"/><path d="M725.4,122.72157334271319l10,-4v39.478426657286796l-10,4z" fill="#aceebb"/><path d="M725.4,122.72157334271319l10,-4v39.478426657286796l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:707.1999999999999px 157.85px;animation-delay:1.173s"><title>2026-11-01: 0 contributions</title>
 <path d="M707.1999999999999,157.85l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:694px 158.5px;animation-delay:1.150s"><title>2026-10-25: 11 contributions</title>
 <path d="M694,96.32399770799609l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
@@ -38,7 +38,9 @@
 <path d="M535.5999999999999,166.3l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:522.4px 166.95px;animation-delay:0.851s"><title>2026-07-26: 3 contributions</title>
 <path d="M522.4,132.09080663227104l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
-<path d="M522.4,132.09080663227104l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M527.4,137.09080663227104l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M527.4,137.09080663227104l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:509.2px 167.6px;animation-delay:0.828s"><title>2026-07-19: 13 contributions</title>
+<path d="M522.4,132.09080663227104l5,5v34.85919336772895l-5,-5z" fill="#aceebb"/><path d="M527.4,137.09080663227104l10,-4v34.85919336772895l-10,4z" fill="#aceebb"/><path d="M527.4,137.09080663227104l10,-4v34.85919336772895l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:725.5px 167.2px;animation-delay:1.241s"><title>2026-11-09: 0 contributions</title>
+<path d="M725.5,167.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:509.2px 167.6px;animation-delay:0.828s"><title>2026-07-19: 13 contributions</title>
 <path d="M509.2,100.44313239491399l10,-4 5,5 -10,4z" fill="#2da44e" stroke="#d1d9e0" stroke-width=".35"/>
 <path d="M509.2,100.44313239491399l5,5v67.156867605086l-5,-5z" fill="#2da44e"/><path d="M514.2,105.44313239491399l10,-4v67.156867605086l-10,4z" fill="#2da44e"/><path d="M514.2,105.44313239491399l10,-4v67.156867605086l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:712.3px 167.85px;animation-delay:1.218s"><title>2026-11-02: 6 contributions</title>
 <path d="M712.3,120.62272377783694l10,-4 5,5 -10,4z" fill="#4ac26b" stroke="#d1d9e0" stroke-width=".35"/>
