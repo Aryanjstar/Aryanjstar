@@ -4,7 +4,7 @@
 <rect x=".5" y=".5" width="799" height="335" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="28" y="32" font-size="12" font-weight="650" letter-spacing="2">MY YEAR, BUILT IN CODE</text>
 <text x="28" y="62" font-size="23" font-weight="700">356 contributions</text>
-<text x="772" y="32" text-anchor="end" class="caption">2025-11-09 → 2026-11-13</text>
+<text x="772" y="32" text-anchor="end" class="caption">2025-11-09 → 2026-11-14</text>
 <text x="772" y="58" text-anchor="end" class="caption">One building for each day</text>
 <g class="building" style="transform-origin:720.4px 157.2px;animation-delay:1.196s"><title>2026-11-08: 4 contributions</title>
 <path d="M720.4,117.72157334271319l10,-4 5,5 -10,4z" fill="#aceebb" stroke="#d1d9e0" stroke-width=".35"/>
@@ -512,6 +512,8 @@
 <path d="M547.9,216.95l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:128.5px 217.1px;animation-delay:0.273s"><title>2025-12-24: 0 contributions</title>
 <path d="M128.5,217.1l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:751px 217.2px;animation-delay:1.466s"><title>2026-11-14: 0 contributions</title>
+<path d="M751,217.2l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:331.59999999999997px 217.35px;animation-delay:0.663s"><title>2026-04-09: 0 contributions</title>
 <path d="M331.59999999999997,217.35l10,-4 5,5 -10,4z" fill="#eff2f5" stroke="#d1d9e0" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:534.7px 217.6px;animation-delay:1.053s"><title>2026-07-24: 0 contributions</title>
