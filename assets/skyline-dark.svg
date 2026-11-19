@@ -4,7 +4,7 @@
 <rect x=".5" y=".5" width="799" height="335" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text x="28" y="32" font-size="12" font-weight="650" letter-spacing="2">MY YEAR, BUILT IN CODE</text>
 <text x="28" y="62" font-size="23" font-weight="700">331 contributions</text>
-<text x="772" y="32" text-anchor="end" class="caption">2025-11-16 → 2026-11-18</text>
+<text x="772" y="32" text-anchor="end" class="caption">2025-11-16 → 2026-11-19</text>
 <text x="772" y="58" text-anchor="end" class="caption">One building for each day</text>
 <g class="building" style="transform-origin:720.4px 157.2px;animation-delay:1.196s"><title>2026-11-15: 0 contributions</title>
 <path d="M720.4,157.2l10,-4 5,5 -10,4z" fill="#151b23" stroke="#30363d" stroke-width=".35"/>
@@ -300,7 +300,9 @@
 <path d="M537.6999999999999,196.95l10,-4 5,5 -10,4z" fill="#151b23" stroke="#30363d" stroke-width=".35"/>
 </g><g class="building" style="transform-origin:118.29999999999998px 197.1px;animation-delay:0.183s"><title>2025-12-29: 1 contributions</title>
 <path d="M118.29999999999998,174.8607866713566l10,-4 5,5 -10,4z" fill="#033a16" stroke="#30363d" stroke-width=".35"/>
-<path d="M118.29999999999998,174.8607866713566l5,5v22.239213328643398l-5,-5z" fill="#033a16"/><path d="M123.29999999999998,179.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#033a16"/><path d="M123.29999999999998,179.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:321.4px 197.35px;animation-delay:0.573s"><title>2026-04-14: 2 contributions</title>
+<path d="M118.29999999999998,174.8607866713566l5,5v22.239213328643398l-5,-5z" fill="#033a16"/><path d="M123.29999999999998,179.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#033a16"/><path d="M123.29999999999998,179.8607866713566l10,-4v22.239213328643398l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:740.8px 197.2px;animation-delay:1.376s"><title>2026-11-19: 0 contributions</title>
+<path d="M740.8,197.2l10,-4 5,5 -10,4z" fill="#151b23" stroke="#30363d" stroke-width=".35"/>
+</g><g class="building" style="transform-origin:321.4px 197.35px;animation-delay:0.573s"><title>2026-04-14: 2 contributions</title>
 <path d="M321.4,167.97007070598949l10,-4 5,5 -10,4z" fill="#033a16" stroke="#30363d" stroke-width=".35"/>
 <path d="M321.4,167.97007070598949l5,5v29.379929294010523l-5,-5z" fill="#033a16"/><path d="M326.4,172.97007070598949l10,-4v29.379929294010523l-10,4z" fill="#033a16"/><path d="M326.4,172.97007070598949l10,-4v29.379929294010523l-10,4z" fill="#000" opacity=".20"/></g><g class="building" style="transform-origin:524.5px 197.6px;animation-delay:0.963s"><title>2026-07-29: 0 contributions</title>
 <path d="M524.5,197.6l10,-4 5,5 -10,4z" fill="#151b23" stroke="#30363d" stroke-width=".35"/>
